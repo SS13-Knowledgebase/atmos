@@ -20,7 +20,7 @@ SA, SP, and PHO are the ingredients for plasma. In a tank, it’ll create Phlogi
 
 The passive vent in there will equalize the amount of kPa with whatever it’s connected to. You could connect it to a connector, and slap on a canister, to harvest the gasses in a portable form.
 
-If you want to make nitrogen or oxygen, you’ll need to transform liquid into gas. How do you do that, you ask? You swap out the tank with a smoke machine.
+If you want to make nitrogen, oxygen, nitrous oxide or carbon dioxide, you’ll need to transform liquid into gas. How do you do that, you ask? You swap out the tank with a smoke machine. For nitrous oxide and carbon dioxide you will need to make the respective chems with plumbing.
 
 You can rotate a smoke machine by dragging it. Make sure to align the smoke machine with your plumbing, then wrench it in place. It’ll then turn liquid oxygen into oxygen, and liquid nitrogen into nitrogen, etc.
 
