@@ -7,13 +7,13 @@ description: This has been patched on some codebases. Check before trying.
 So, you've figured out how to make turbines. Now what?
 
 I will teach you how to turn this:\
-![](<../.gitbook/assets/image (3) (1).png>)
+![](<../.gitbook/assets/image (3) (1) (1).png>)
 
 Into this:\
 ![](<../.gitbook/assets/image (1).png>)
 
 Using only 8 simple steps!\
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (9).png>)
 
 1. Set up the turbine
 2. put a scrubber from the big part to an injector in the small part

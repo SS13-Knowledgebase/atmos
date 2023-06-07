@@ -15,11 +15,11 @@ You’re going to want to build something like this:
 ![](<.gitbook/assets/image (4).png>)
 
 The big black box is the burn chamber; **You want the flooring to be reinforced in there.**\
-****The 4 green circles are scrubbers, set to scrub everything except **tritium, oxygen, & plasma**.\
+\*\*\*\*The 4 green circles are scrubbers, set to scrub everything except **tritium, oxygen, & plasma**.\
 This is to ensure we get the pressure and heat desired, without having other gasses interfere.\
 The brown pipes leading out is where the scrubbed gasses will go.\
 You can make lots of filters where they end to separate the gasses to your liking, and store them.\
-****![](<.gitbook/assets/image (2).png>) The turbine.
+\*\*\*\*![](<.gitbook/assets/image (2) (1).png>) The turbine.
 
 The 2 red boxes, labeled **1** & **2** are where the turbine parts will go. **1** is where the small part goes, while **2** is where the large, thruster-like part goes.
 

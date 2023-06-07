@@ -14,7 +14,7 @@ For plasma, you can create **phlogiston** in the tank, using **Phosphorus**, **S
 
 You want to have the tank in an air-tight 1x1, like by using directional windows, and make sure the chamber contains nothing (0kPa). Next up, you just pump the chemicals into the tank, and they’ll react to create plasma.
 
-![](<.gitbook/assets/image (3).png>)
+![](<.gitbook/assets/image (3) (1).png>)
 
 SA, SP, and PHO are the ingredients for plasma. In a tank, it’ll create Phlogiston, or Phlog, for short, and get vented into whatever system you have.
 
